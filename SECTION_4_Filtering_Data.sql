@@ -1,0 +1,2 @@
+-- alias
+-- Note if the table alias contains spaces, we need to enclose it in quotation marksßß
